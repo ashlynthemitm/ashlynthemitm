@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ashlynthemitm
-- 👀 I’m interested in becoming a software developer!
-- 🌱 I’m currently learning advanced Java concepts, and beginner Python and Html. 
+- 👀 I’m interested in Research & Development roles!
 - 💞️ I’m looking to collaborate on future Hackathons. 
 - 📫 I can be reached by email ashlyncmitm@gmail.com
 
