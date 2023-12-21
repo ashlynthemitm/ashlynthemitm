@@ -1,7 +1,5 @@
 # Ashlyn Campbell - Passionate Computer Science & Sociology Student | Tech Advocate for Inclusivity | Multifaceted Geek 👩‍💻
 
-![Ashlyn Campbell](https://avatars.githubusercontent.com/ashlynthemitm)
-
 Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based in Atlanta, GA. I'm currently pursuing a Bachelor of Science in Computer Science with a Minor in Sociology at Georgia State University, and I expect to graduate in December 2024.
 
 ## 📚 Education
