@@ -15,10 +15,10 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 ## 💻 Technical Skills
 
 - **Languages**: Python, Java, C++, JavaScript
-- **Web Development**: HTML, CSS
-- **Databases**: SQL, MySQL
+- **Web Development**: HTML, CSS, Flask, Chakra, React
+- **Databases**: SQL
 - **Technologies**: Linux, Git, Docker
-- **Other**: JSON
+- **Other**: JSON, XML
 
 ## 🛠️ Work Experience
 
@@ -36,13 +36,13 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 
 ## 🚀 Projects
 
-### The ASH-Portal - Personal Project (JavaScript, HTML, CSS)
+### [The ASH-Portal](https://ashlynthemitm.github.io/) - Personal Project (JavaScript, HTML, CSS)
 - Web application showcasing a broad range of interests, with a dedicated Study Abroad Profile section
 
-### The Good Advisor - Team Project (Flask, Python, MySQL)
-- Collaborated in a Scrum team to create a Chatbot aiding Computer Science students in selecting coursework
+### [The Good Advisor](https://github.com/ashlynthemitm/The-Good-Advisor) - Team Project (Flask, Python, MySQL)
+- Collaborated with a Scrum team to create a Chatbot aiding Computer Science students in selecting coursework
 
-### Analyzing Return On Investment in Education - Research Project (Python)
+### [Analyzing Return On Investment in Education](https://github.com/ashlynthemitm/DS-Model) - Research Project (Python)
 - Led the development of a Predictive Analytics model exploring the correlation between school choice and career outcomes
 
 ## 👩‍💼 Leadership and Professional Development
@@ -54,9 +54,12 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 ## 🏆 Notable Accomplishments
 
 - MLT Career Prep Fellow
-- JPMorgan CFG Hackathon Participant
-- TED Scholar
-- National Society of Black Engineers E-Board Member
+- JPMorgan Code For Good Hackathon 
+- Morgan Stanley Code to Give Hackathon 
+- Girls Who Code HackHers Hackathon
+- Women Who Code + Rural Sourcing Hack4Hope Hackathon
+- TEDWomen Scholar
+- National Society of Black Engineers Executive Board Member
 
 ## 📬 Let's Connect!
 
