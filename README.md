@@ -20,20 +20,6 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 - **Technologies**: Linux, Git, Docker
 - **Other**: JSON, XML
 
-## 🛠️ Work Experience
-
-### Undergraduate Teacher Assistant - Georgia State University (Aug. 2023 – Present)
-- Assisting professors in grading and providing support in Intro to Python Programming 2
-- Tutoring students in object-oriented programming topics and algorithms
-
-### Software Engineering Co-Op - Raytheon Technologies (Jan. 2023 – Aug. 2023)
-- Developed a Python-based binary file reader and data visualization tool, improving field personnel efficiency
-- Optimized large software systems through extensive unit tests in C++
-
-### Data Analytics Intern - Georgia Community Action Association (May 2022 – Jan. 2023)
-- Presented Python-computed data visualization models at the agency's Quarterly Technical Conference
-- Provided essential outcome-based data and reports for the Yearly Impact Report
-
 ## 🚀 Projects
 
 ### [The ASH-Portal](https://ashlynthemitm.github.io/) - Personal Project (JavaScript, HTML, CSS)
@@ -45,11 +31,31 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 ### [Analyzing Return On Investment in Education](https://github.com/ashlynthemitm/DS-Model) - Research Project (Python)
 - Led the development of a Predictive Analytics model exploring the correlation between school choice and career outcomes
 
-## 👩‍💼 Leadership and Professional Development
+### [JPMorgan Code for Good Hackathon Project](https://github.com/cfgchicago23/Team-6) - Hackathon Project (React, Chakra, Django, Python, HTML/CSS) - Collaborated alongside 7 Computer Science students to build a solution for The Non-profit organization Rebuilding Aurora
+
+### [Menu Match](https://github.com/ashlynthemitm/MenuMatch) - Course Project (MySQL, Python, Flask, JavaScript, HTML/CSS) - MenuMatch is an application that assists Georgia State University
+
+### [ASHCALC-The-Calculus-Calculator](https://github.com/ashlynthemitm/ASHCALC-The-Calculus-Calculator) - Personal Project (Java)
+The ASHCALC is a scientific calculator that can also compute basic algebraic and calculus functions
+
+
+## 🛠️ Work Experience
 
 ### Program Manager - Reaching for Inclusion – Striving for Excellence (RISE) in Computing (May 2023 – Present)
 - Championing outreach initiatives targeting incoming freshman college black women in technology
 - Planning and executing technical workshops to enhance participants' understanding of the tech industry
+
+### Undergraduate Teacher Assistant - Georgia State University (Aug. 2023 – Present)
+- Assisting professors in grading and providing support in Intro to Python Programming 2
+- Tutoring students in object-oriented programming topics and algorithms
+
+### Software Engineering Co-Op - Raytheon Technologies (Jan. 2023 – Aug. 2023)
+- Developed a Python-based binary file reader and data visualization tool, improving field personnel efficiency
+- Optimized large software systems through extensive unit tests in C++
+
+### Data Analytics Intern - Georgia Community Action Association (May 2022 – Jan. 2023)
+- Presented Python-computed data visualization models at the agency's Quarterly Technical Conference [Presentation](https://github.com/ashlynthemitm/DataVTechBootCamp)
+- Provided essential outcome-based data and reports for the Yearly Impact Report
 
 ## 🏆 Notable Accomplishments
 
