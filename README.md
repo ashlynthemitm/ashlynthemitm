@@ -9,7 +9,6 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
   - *Expected Graduation: Dec. 2024*
   - *Overall GPA: 3.96/4.0*
   - *Data Science Certification in Progress*
-  - *President’s List Recipient, Gilman International Scholar*
   - *Relevant Coursework: Data Structures & Algorithms, Software Engineering Capstone, Database Systems*
 
 ## 💻 Technical Skills
@@ -31,12 +30,14 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 ### [Analyzing Return On Investment in Education](https://github.com/ashlynthemitm/DS-Model) - Research Project (Python)
 - Led the development of a Predictive Analytics model exploring the correlation between school choice and career outcomes
 
-### [JPMorgan Code for Good Hackathon Project](https://github.com/cfgchicago23/Team-6) - Hackathon Project (React, Chakra, Django, Python, HTML/CSS) - Collaborated alongside 7 Computer Science students to build a solution for The Non-profit organization Rebuilding Aurora
+### [JPMorgan Code for Good Hackathon Project](https://github.com/cfgchicago23/Team-6) - Hackathon Project (React, Chakra, Django, Python, HTML/CSS) 
+- Collaborated alongside 7 Computer Science students to build a solution for The Non-profit organization Rebuilding Aurora
 
-### [Menu Match](https://github.com/ashlynthemitm/MenuMatch) - Course Project (MySQL, Python, Flask, JavaScript, HTML/CSS) - MenuMatch is an application that assists Georgia State University
+### [Menu Match](https://github.com/ashlynthemitm/MenuMatch) - Course Project (MySQL, Python, Flask, JavaScript, HTML/CSS) 
+- MenuMatch is an application that assists Georgia State University
 
 ### [ASHCALC-The-Calculus-Calculator](https://github.com/ashlynthemitm/ASHCALC-The-Calculus-Calculator) - Personal Project (Java)
-The ASHCALC is a scientific calculator that can also compute basic algebraic and calculus functions
+- The ASHCALC is a scientific calculator that can also compute basic algebraic and calculus functions
 
 
 ## 🛠️ Work Experience
