@@ -14,7 +14,7 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 ## 💻 Technical Skills
 
 - **Languages**: Python, Java, C++, JavaScript
-- **Web Development**: HTML, CSS, Flask, Chakra, React
+- **Web Development**: HTML, CSS, Flask, React
 - **Databases**: SQL
 - **Technologies**: Linux, Git, Docker
 - **Other**: JSON, XML
