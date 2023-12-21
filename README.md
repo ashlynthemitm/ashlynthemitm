@@ -34,7 +34,7 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 - Collaborated alongside 7 Computer Science students to build a solution for The Non-profit organization Rebuilding Aurora
 
 ### [Menu Match](https://github.com/ashlynthemitm/MenuMatch) - Course Project (MySQL, Python, Flask, JavaScript, HTML/CSS) 
-- MenuMatch is an application that assists Georgia State University
+- MenuMatch is an application that assists Georgia State University students in finding nearby restaurants that match their preferences
 
 ### [ASHCALC-The-Calculus-Calculator](https://github.com/ashlynthemitm/ASHCALC-The-Calculus-Calculator) - Personal Project (Java)
 - The ASHCALC is a scientific calculator that can also compute basic algebraic and calculus functions
