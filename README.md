@@ -39,7 +39,7 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 ### [The ASH-Portal](https://ashlynthemitm.github.io/) - Personal Project (JavaScript, HTML, CSS)
 - Web application showcasing a broad range of interests, with a dedicated Study Abroad Profile section
 
-### [The Good Advisor](https://github.com/ashlynthemitm/The-Good-Advisor) - Team Project (Flask, Python, MySQL)
+### [The Good Advisor](https://github.com/ashlynthemitm/TheGoodAdvisor) - Team Project (Flask, Python, MySQL)
 - Collaborated with a Scrum team to create a Chatbot aiding Computer Science students in selecting coursework
 
 ### [Analyzing Return On Investment in Education](https://github.com/ashlynthemitm/DS-Model) - Research Project (Python)
