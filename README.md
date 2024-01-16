@@ -16,7 +16,8 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 - **Languages**: Python, Java, C++, JavaScript
 - **Web Development**: HTML, CSS, Flask, React
 - **Databases**: SQL
-- **Technologies**: Linux, Git, Docker
+- **Source Control**: Git, Subversion, Jenkins, Docker
+- **Platforms**: Windows, Linux
 - **Other**: JSON, XML
 
 ## 🚀 Projects
