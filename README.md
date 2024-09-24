@@ -57,13 +57,13 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 
 ### Undergraduate Research Assistant, Georgia State University
 
-### Program Manager - Reaching for Inclusion – Striving for Excellence (RISE) in Computing
+### Program Manager, Reaching for Inclusion – Striving for Excellence (RISE) in Computing
 
-### Undergraduate Teacher Assistant - Georgia State University 
+### Undergraduate Teacher Assistant, Georgia State University 
 
-### Software Engineering Co-Op - Raytheon Technologies 
+### Software Engineering Co-Op, Raytheon Technologies 
 
-### Data Analytics Intern - Georgia Community Action Association 
+### Data Analytics Intern, Georgia Community Action Association 
 
 ## 🏆 Notable Accomplishments
 
