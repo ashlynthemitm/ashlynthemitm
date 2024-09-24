@@ -7,7 +7,7 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 - **Georgia State University**
   - *Bachelor of Science in Computer Science, Minor in Sociology*
   - *Expected Graduation: May 2025*
-  - *Overall GPA: 3.96/4.0*
+  - *Overall GPA: 3.98/4.0*
   - *Data Science Certification in Progress*
   - *Relevant Coursework: Data Structures & Algorithms, Software Engineering Capstone, Database Systems*
 
@@ -53,23 +53,17 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 
 ## 🛠️ Work Experience
 
-### Undergraduate Research Assistant ###
+### Software Engineer Intern, Microsoft
 
-### Program Manager - Reaching for Inclusion – Striving for Excellence (RISE) in Computing (May 2023 – Present)
-- Championing outreach initiatives targeting incoming freshman college black women in technology
-- Planning and executing technical workshops to enhance participants' understanding of the tech industry
+### Undergraduate Research Assistant, Georgia State University
 
-### Undergraduate Teacher Assistant - Georgia State University (Aug. 2023 – Present)
-- Assisting professors in grading and providing support in Intro to Python Programming 2
-- Tutoring students in object-oriented programming topics and algorithms
+### Program Manager - Reaching for Inclusion – Striving for Excellence (RISE) in Computing
 
-### Software Engineering Co-Op - Raytheon Technologies (Jan. 2023 – Aug. 2023)
-- Developed a Python-based binary file reader and data visualization tool, improving field personnel efficiency
-- Optimized large software systems through extensive unit tests in C++
+### Undergraduate Teacher Assistant - Georgia State University 
 
-### Data Analytics Intern - Georgia Community Action Association (May 2022 – Jan. 2023)
-- Presented Python-computed data visualization models at the agency's Quarterly Technical Conference [Presentation](https://github.com/ashlynthemitm/DataVTechBootCamp)
-- Provided essential outcome-based data and reports for the Yearly Impact Report
+### Software Engineering Co-Op - Raytheon Technologies 
+
+### Data Analytics Intern - Georgia Community Action Association 
 
 ## 🏆 Notable Accomplishments
 
