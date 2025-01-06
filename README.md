@@ -1,13 +1,13 @@
 # Ashlyn Campbell - Passionate Computer Science & Sociology Student | Tech Advocate for Inclusivity | Multifaceted Geek 👩‍💻
 
-Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based in Atlanta, GA. I'm currently pursuing a Bachelor of Science in Computer Science with a Minor in Sociology at Georgia State University, and I expect to graduate in May 2025.
+Hi there! 👋 I'm Ashlyn Campbell, a computer science student based in Atlanta, GA. I'm currently pursuing a Bachelor of Science in Computer Science with a Minor in Sociology at Georgia State University, and I expect to graduate in May 2025.
 
 ## 📚 Education
 
 - **Georgia State University**
   - *Bachelor of Science in Computer Science, Minor in Sociology*
   - *Expected Graduation: May 2025*
-  - *Overall GPA: 3.98/4.0*
+  - *Overall GPA: 4.04/4.0*
   - *Data Science Certification in Progress*
   - *Relevant Coursework: Data Structures & Algorithms, Software Engineering Capstone, Database Systems*
 
@@ -52,6 +52,8 @@ Hi there! 👋 I'm Ashlyn Campbell, a passionate computer science student based 
 
 
 ## 🛠️ Work Experience
+
+### Undergraduate Research Assistant, Clemson University
 
 ### Software Engineer Intern, Microsoft
 
