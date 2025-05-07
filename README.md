@@ -1,28 +1,21 @@
-# Ashlyn Campbell - Passionate Computer Science & Sociology Student | Tech Advocate for Inclusivity | Multifaceted Geek 👩‍💻
+# Ashlyn Campbell - Passionate Human-Centered AI & Education Researcher 👩‍💻
 
-Hi there! 👋 I'm Ashlyn Campbell, a computer science student based in Atlanta, GA. I'm currently pursuing a Bachelor of Science in Computer Science with a Minor in Sociology at Georgia State University, and I expect to graduate in May 2025.
+Hi there! 👋 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia, currently pursuing a PhD in the School of Information at the University of Michigan. I recently completed my Bachelor of Science in Computer Science with a Minor in Sociology at Georgia State University! If you would like to learn more about my research, view my [official website](https://www.ashlyncampbell.com) :) 
 
-## 📚 Education
-
-- **Georgia State University**
-  - *Bachelor of Science in Computer Science, Minor in Sociology*
-  - *Expected Graduation: May 2025*
-  - *Overall GPA: 4.04/4.0*
-  - *Data Science Certification in Progress*
-  - *Relevant Coursework: Data Structures & Algorithms, Software Engineering Capstone, Database Systems*
+Check out my GitHub Projects below:
 
 ## 💻 Technical Skills
 
-- **Languages**: Python, Java, C++, JavaScript
-- **Web Development**: HTML, CSS, Flask, React
-- **Databases**: SQL
+- **Languages**: Python, Java, C/C++, JavaScript
+- **Web Development**: HTML, CSS, Flask, React, TypeScript
+- **Databases**: MySQL, PostgreSQL
 - **Source Control**: Git, Subversion, Jenkins, Docker
 - **Platforms**: Windows, Linux
 - **Other**: JSON, XML
 
 ## 🚀 Projects
 
-### [The ASH-Portal](https://ashlynthemitm.github.io/) - Personal Project (JavaScript, HTML, CSS)
+### [The ASH-Portal](https://github.com/ashlynthemitm/Ash-Portal/) - Personal Project (JavaScript, HTML, CSS)
 -  A website to provide valuable resources and insights to college students, focusing on studying abroad.
 
 ### [TLDR Maternal Health](https://github.com/ashlynthemitm/TLDR-MaternalHealth) - Course Project (Azure, SQL, Python)
@@ -53,6 +46,8 @@ Hi there! 👋 I'm Ashlyn Campbell, a computer science student based in Atlanta,
 
 ## 🛠️ Work Experience
 
+### Graduate Student Researcher, Lawrence Livermore National Laboratory
+
 ### Undergraduate Research Assistant, Clemson University
 
 ### Software Engineer Intern, Microsoft
@@ -69,6 +64,7 @@ Hi there! 👋 I'm Ashlyn Campbell, a computer science student based in Atlanta,
 
 ## 🏆 Notable Accomplishments
 
+- Rackham Merit Fellow
 - MLT Career Prep Fellow
 - JPMorgan Code For Good Hackathon 
 - Morgan Stanley Code to Give Hackathon 
