@@ -1,6 +1,6 @@
 # Ashlyn Campbell - Passionate Human-Centered AI & Education Researcher 👩‍💻
 
-Hi there! 👋 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia, currently pursuing a PhD in the School of Information at the University of Michigan. I recently completed my Bachelor of Science in Computer Science with a Minor in Sociology at Georgia State University! If you would like to learn more about my research, view my [official website](https://www.ashlyncampbell.com/) :) 
+Hi there! 👋 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia! If you would like to learn more about my research, view my [official website](https://www.ashlyncampbell.com/) :) 
 
 Check out my GitHub Projects below:
 
