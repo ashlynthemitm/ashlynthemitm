@@ -1,6 +1,7 @@
-# Ashlyn Campbell - Passionate Human-Centered AI & Education Researcher 👩‍💻
+# Ashlyn Campbell - Passionate PhD Student Studying AI in Education 👩🏾‍💻
 
-Hi there! 👋 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia! If you would like to learn more about my research, view my [official website](https://www.ashlyncampbell.com/) :) 
+Hi there! 👋🏾 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia! If you would like the most updated information about me, view my [official website](https://www.ashlyncampbell.com/) :) 
+Otherwise, here's a bit of info about my undergrad background!
 
 Check out my GitHub Projects below:
 
