@@ -5,7 +5,7 @@ Otherwise, here's a bit of info about my undergrad background!
 
 Check out my GitHub Projects below:
 
-## 💻 Technical Skills
+## Technical Skills
 
 - **Languages**: Python, Java, C/C++, JavaScript
 - **Web Development**: HTML, CSS, Flask, React, TypeScript
@@ -14,7 +14,7 @@ Check out my GitHub Projects below:
 - **Platforms**: Windows, Linux
 - **Other**: JSON, XML
 
-## 🚀 Projects
+## Projects
 
 ### [The ASH-Portal](https://github.com/ashlynthemitm/Ash-Portal/) - Personal Project (JavaScript, HTML, CSS)
 -  A website to provide valuable resources and insights to college students, focusing on studying abroad.
@@ -45,7 +45,7 @@ Check out my GitHub Projects below:
 - The ASHCALC is a scientific calculator that can also compute basic algebraic and calculus functions
 
 
-## 🛠️ Work Experience
+## Work Experience
 
 ### Graduate Student Researcher, Lawrence Livermore National Laboratory
 
@@ -74,12 +74,11 @@ Check out my GitHub Projects below:
 - TEDWomen Scholar
 - National Society of Black Engineers Executive Board Member
 
-## 📬 Let's Connect!
+## Let's Connect!
 
 - LinkedIn: [Ashlyn Campbell](https://www.linkedin.com/in/ashlyncampbell3/)
-- GitHub: [ashlynthemitm](https://github.com/ashlynthemitm)
 
-Feel free to explore my repositories, and let's collaborate to build something amazing together! 🚀✨
+Feel free to explore my repositories, and let's collaborate to build something amazing together! ✨
 <!---
 ashlynthemitm/ashlynthemitm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
