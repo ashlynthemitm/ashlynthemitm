@@ -17,7 +17,7 @@ Check out my GitHub Projects below:
 ## Projects
 
 ### [The ASH-Portal](https://github.com/ashlynthemitm/Ash-Portal/) - Personal Project (JavaScript, HTML, CSS)
--  A website I created, inspired by Instagram to document a bit about my study abroad trip in Bali Indonesia and provide valuable resources and insights for other college students interested in studying abroad. As a Gilman Scholar, I am always open to helping students learn about the process. I have a more advice on my updated [website](https://www.ashlyncampbell.com/projects/study_abroad-profile.html) as well!
+-  A website I created, inspired by Instagram to document a bit about my study abroad trip in Bali Indonesia and provide valuable resources and insights for other college students interested in studying abroad. As a Gilman Scholar, I am always open to helping students learn about the process. I have more advice on my updated [website](https://www.ashlyncampbell.com/projects/study_abroad-profile.html) as well!
 
 ### [TLDR Maternal Health](https://github.com/ashlynthemitm/TLDR-MaternalHealth) - Course Project (Azure, SQL, Python)
 - A cloud computing project where I learned about both distributed systems and natural language processing (NLP) techniques to cater to the informational needs of pregnant. This project was a component of my research on Black maternal health disparities.
