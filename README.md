@@ -1,7 +1,7 @@
-# Ashlyn Campbell - Passionate PhD Student Studying AI in Education 👩🏾‍💻
+# Ashlyn Campbell - Passionate PhD Student Studying Student-AI Interaction 👩🏾‍💻
 
-Hi there! 👋🏾 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia! If you would like the most updated information about me, view my [official website](https://www.ashlyncampbell.com/) :) 
-Otherwise, here's a bit of info about my undergrad background!
+Hi there! 👋🏾 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia! I study student-AI interaction through qualitative methods to understand implications for the design of generative AI systems. If you would like the most updated information about me and my research, view my [official website](https://www.ashlyncampbell.com/) :) or just my [CV](https://www.ashlyncampbell.com/assets/cv/Ashlyn_Campbell_CV.pdf) ;) 
+Otherwise, here's a bit of info about some of the projects I have worked on and even the internships I had a chance to experience!
 
 Check out my GitHub Projects below:
 
@@ -17,35 +17,35 @@ Check out my GitHub Projects below:
 ## Projects
 
 ### [The ASH-Portal](https://github.com/ashlynthemitm/Ash-Portal/) - Personal Project (JavaScript, HTML, CSS)
--  A website to provide valuable resources and insights to college students, focusing on studying abroad.
+-  A website I created, inspired by Instagram to document a bit about my study abroad trip in Bali Indonesia and provide valuable resources and insights for other college students interested in studying abroad. As a Gilman Scholar, I am always open to helping students learn about the process. I have a more advice on my updated [website](https://www.ashlyncampbell.com/projects/study_abroad-profile.html) as well!
 
 ### [TLDR Maternal Health](https://github.com/ashlynthemitm/TLDR-MaternalHealth) - Course Project (Azure, SQL, Python)
-- A comprehensive project that harnesses the power of a distributed system and natural language processing (NLP) techniques to cater to the informational needs of pregnant women.
+- A cloud computing project where I learned about both distributed systems and natural language processing (NLP) techniques to cater to the informational needs of pregnant. This project was a component of my research on Black maternal health disparities.
 
 ### [JPMorgan Data For Good Hackathon](https://docs.google.com/presentation/d/1EjXwcOF8LHcc3hQxS6hhrFTM6FRg28KmfeaXlDGFoQY/edit#slide=id.g2ce12f5c9d0_1_10919) - Hackathon Project (Python)
-- Designed geospatial analyses to identify areas with critical needs.
+- During my undergrad I participated in many hackathons. This one in particular was centered on Data Science and extremely fun. I got to design a geospatial analysis to identify areas with critical need for a Philly non-profit.
 
 ### [The Web Scraper Bot](https://github.com/ashlynthemitm/Chatbot-Workshop) - Workshop Presentation (Python)
-- This Chatbot is a GUI application created as part of a workshop for the RISE in Computing freshmen program. It utilizes Tkinter for the graphical user interface and Wikipedia web scraping functionality to provide information on various topics.
+- During my work as the program manager for the RISE in Computing Stars program, I facilitated a workshop to teach freshmen students how to build a Chatbot using a graphical user interface (GUI) Chatbot. It utilizes Python Tkinter for the GUI and Wikipedia web scraping functionality to provide information on various topics.
 
 ### [The Good Advisor](https://github.com/ashlynthemitm/TheGoodAdvisor) - Team Project (Flask, Python, MySQL)
-- A Chatbot, designed for Computer Science students, aiding in selecting coursework and planning a strategic four-year college path.
+- For my software engineering capstone, I also created a Chatbot, however this one was a "ChatGPT style" website, designed for Computer Science students to get help selecting coursework and planning a strategic four-year college path.
 
 ### [Analyzing Return On Investment in Education](https://github.com/ashlynthemitm/DS-Model) - Research Project (Python)
-- Led the development of a Predictive Analytics model exploring the correlation between school choice and career outcomes
+- In my data science course, I collaborated with a peer on predictive analytics to explore the correlation between school choice and career outcomes.
 
 ### [JPMorgan Code for Good Hackathon Project](https://github.com/cfgchicago23/Team-6) - Hackathon Project (React, Chakra, Django, Python, HTML/CSS) 
-- Collaborated alongside 7 Computer Science students to build a solution for The Non-profit organization Rebuilding Aurora
-[Presentation](https://docs.google.com/presentation/d/1m4UAb-4VlxMcv_dG5KP-u1yQmYbWTrk6_XhKm_f5fs0/present?slide=id.g4dfce81f19_0_45)
+- During my first JPMorgan hackathon, I collaborated alongside 7 Computer Science students (all very skilled and fun to work with) to build a solution for The non-profit organization Rebuilding Aurora.
+[View the Presentation](https://docs.google.com/presentation/d/1m4UAb-4VlxMcv_dG5KP-u1yQmYbWTrk6_XhKm_f5fs0/present?slide=id.g4dfce81f19_0_45)
 
 ### [Menu Match](https://github.com/ashlynthemitm/MenuMatch) - Course Project (MySQL, Python, Flask, JavaScript, HTML/CSS) 
-- MenuMatch is an application that assists Georgia State University students in finding nearby restaurants that match their preferences
+- I collaborated with two other students in my database systems course to create MenuMatch, an application that assists Georgia State University students in finding nearby restaurants that match their preferences. My primary role in this project centered on creating the database and the connection. But also, helped out with the front-end.
 
 ### [ASHCALC-The-Calculus-Calculator](https://github.com/ashlynthemitm/ASHCALC-The-Calculus-Calculator) - Personal Project (Java)
-- The ASHCALC is a scientific calculator that can also compute basic algebraic and calculus functions
+- The ASHCALC was my very first project during my introduction to programming coursework. This is a scientific calculator that can also compute basic algebraic and calculus functions. The Java code is not my finest hour, but I am very proud of the beautiful misconceptions all over this project. 
 
 
-## Work Experience
+## Internship Experience
 
 ### Graduate Student Researcher, Lawrence Livermore National Laboratory
 
@@ -65,6 +65,7 @@ Check out my GitHub Projects below:
 
 ## 🏆 Notable Accomplishments
 
+- NSF Graduate Research Fellow
 - Rackham Merit Fellow
 - MLT Career Prep Fellow
 - JPMorgan Code For Good Hackathon 
@@ -78,7 +79,7 @@ Check out my GitHub Projects below:
 
 - LinkedIn: [Ashlyn Campbell](https://www.linkedin.com/in/ashlyncampbell3/)
 
-Feel free to explore my repositories, and let's collaborate to build something amazing together! ✨
+✨ Don't forget to check out my [official website](https://www.ashlyncampbell.com/) ✨
 <!---
 ashlynthemitm/ashlynthemitm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
