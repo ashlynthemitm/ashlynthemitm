@@ -1,16 +1,7 @@
-# Ashlyn Campbell - Passionate PhD Student Studying Student-AI Interaction 👩🏾‍💻
+# Ashlyn Campbell - Second Year PhD Student Studying Student-AI Interaction 👩🏾‍💻
 
-Hi there! 👋🏾 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia! I study student-AI interaction through qualitative methods to understand implications for the design of generative AI systems. If you would like the most updated information about me and my research, view my [official website](https://www.ashlyncampbell.com/) :) or just my [CV](https://www.ashlyncampbell.com/assets/cv/Ashlyn_Campbell_CV.pdf) ;) 
-Otherwise, here's a bit of info about some of the projects I have worked on and even the internships I had a chance to experience!
-
-## Technical Skills
-
-- **Languages**: Python, Java, C/C++, JavaScript
-- **Web Development**: HTML, CSS, Flask, React, TypeScript
-- **Databases**: MySQL, PostgreSQL
-- **Source Control**: Git, Subversion, Jenkins, Docker
-- **Platforms**: Windows, Linux
-- **Other**: JSON, XML
+Hi there! 👋🏾 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia! I study student-AI interaction through qualitative methods to understand implications for the design of generative AI tools that prioritize the experiences and needs of all students. If you would like the most updated information about me and my research, view my [official website](https://www.ashlyncampbell.com/) :) or just my [CV](https://www.ashlyncampbell.com/assets/cv/Ashlyn_Campbell_CV.pdf) ;) 
+Otherwise, here's a bit of info about some of the personal, school, and hackathon projects I have worked on and even the internships I had a chance to experience!
 
 ## Projects
 
