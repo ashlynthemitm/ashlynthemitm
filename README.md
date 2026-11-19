@@ -3,8 +3,6 @@
 Hi there! 👋🏾 I'm Ashlyn (ASH-LEN) from Atlanta, Georgia! I study student-AI interaction through qualitative methods to understand implications for the design of generative AI systems. If you would like the most updated information about me and my research, view my [official website](https://www.ashlyncampbell.com/) :) or just my [CV](https://www.ashlyncampbell.com/assets/cv/Ashlyn_Campbell_CV.pdf) ;) 
 Otherwise, here's a bit of info about some of the projects I have worked on and even the internships I had a chance to experience!
 
-Check out my GitHub Projects below:
-
 ## Technical Skills
 
 - **Languages**: Python, Java, C/C++, JavaScript
