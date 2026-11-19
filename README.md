@@ -20,16 +20,16 @@ Check out my GitHub Projects below:
 -  A website I created, inspired by Instagram to document a bit about my study abroad trip in Bali Indonesia and provide valuable resources and insights for other college students interested in studying abroad. As a Gilman Scholar, I am always open to helping students learn about the process. I have more advice on my updated [website](https://www.ashlyncampbell.com/projects/study_abroad-profile.html) as well!
 
 ### [TLDR Maternal Health](https://github.com/ashlynthemitm/TLDR-MaternalHealth) - Course Project (Azure, SQL, Python)
-- A cloud computing project where I learned about both distributed systems and natural language processing (NLP) techniques to cater to the informational needs of pregnant. This project was a component of my research on Black maternal health disparities.
+- A cloud computing project where I learned about both distributed systems and natural language processing (NLP) techniques to cater to the informational needs of pregnant women. This project was a component of my research on Black maternal health disparities.
 
 ### [JPMorgan Data For Good Hackathon](https://docs.google.com/presentation/d/1EjXwcOF8LHcc3hQxS6hhrFTM6FRg28KmfeaXlDGFoQY/edit#slide=id.g2ce12f5c9d0_1_10919) - Hackathon Project (Python)
-- During my undergrad I participated in many hackathons. This one in particular was centered on Data Science and extremely fun. I got to design a geospatial analysis to identify areas with critical need for a Philly non-profit.
+- During my undergrad I participated in many hackathons. This one in particular was centered on Data Science and extremely fun. I got to conduct geospatial analysis and create really cool figures to identify areas with critical need for a Philly non-profit.
 
 ### [The Web Scraper Bot](https://github.com/ashlynthemitm/Chatbot-Workshop) - Workshop Presentation (Python)
-- During my work as the program manager for the RISE in Computing Stars program, I facilitated a workshop to teach freshmen students how to build a Chatbot using a graphical user interface (GUI) Chatbot. It utilizes Python Tkinter for the GUI and Wikipedia web scraping functionality to provide information on various topics.
+- During my work as the program manager for the [RISE in Computing Stars program](https://www.ashlyncampbell.com/projects/2025_rise-profile.html), I facilitated a workshop to teach freshmen students how to build a Chatbot using a graphical user interface (GUI). It utilizes Python Tkinter for the GUI and Wikipedia web scraping functionality to provide information on various topics.
 
 ### [The Good Advisor](https://github.com/ashlynthemitm/TheGoodAdvisor) - Team Project (Flask, Python, MySQL)
-- For my software engineering capstone, I also created a Chatbot, however this one was a "ChatGPT style" website, designed for Computer Science students to get help selecting coursework and planning a strategic four-year college path.
+- For my software engineering capstone, I created a Chatbot in the form of a "ChatGPT style" website, designed for Computer Science students to get help selecting coursework and planning a strategic four-year college path.
 
 ### [Analyzing Return On Investment in Education](https://github.com/ashlynthemitm/DS-Model) - Research Project (Python)
 - In my data science course, I collaborated with a peer on predictive analytics to explore the correlation between school choice and career outcomes.
